@@ -1,0 +1,105 @@
+.dwt {
+  padding: 20px;
+  color: #9dabbd !important;
+  border-bottom: 0.001rem solid rgba(83, 92, 100, 0.5);
+  overflow-x: hidden;
+}
+/* {
+      align-items: center;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    
+} */
+.deposite-slide {
+  margin-left: 10px;
+  padding: 15px;
+  padding-left: 2.8rem;
+  padding-right: 2.3rem;
+  background-color: #20252b;
+  border: 0.001rem solid rgb(38, 41, 50);
+  min-width: 212px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.deposite-slide:hover{
+  background-color:#1B1F25;
+  border: 0.001rem solid #1B1F25;
+}
+
+.withdrawal-slide {
+  margin-left: 1.5rem;
+  padding: 15px;
+  padding-left: 2.8rem;
+  padding-right: 2.3rem;
+  background-color: #20252b;
+  border: 0.001rem solid rgb(38, 41, 50);
+  min-width: 222px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.withdrawal-slide:hover{
+  background-color:#1B1F25;
+  border: 0.001rem solid #1B1F25;
+}
+
+.transfer-slide {
+  margin-left: 1.5rem;
+  padding: 15px;
+  padding-left: 2.8rem;
+  padding-right: 2.3rem;
+  background-color: #20252b;
+  border: 0.001rem solid rgb(38, 41, 50);
+  min-width: 212px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.transfer-slide:hover{
+  background-color:#1B1F25;
+  border: 0.001rem solid #1B1F25;
+}
+
+.fund-slide {
+  margin-left: 1.5rem;
+  padding: 15px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: #20252b;
+  border: 0.001rem solid rgb(38, 41, 50);
+  /* max-width: 62rem; */
+  width: 180px;
+  /* width: 180px; */
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  overflow: hidden;
+}
+
+.fund-slide:hover{
+  background-color:#1B1F25;
+  border: 0.001rem solid #1B1F25;
+}
+
+#dwtIMG {
+  height: 30px;
+  width: 30px;
+}
+
+#dwtIMGfund {
+  height: 26px;
+  width: 62px;
+}

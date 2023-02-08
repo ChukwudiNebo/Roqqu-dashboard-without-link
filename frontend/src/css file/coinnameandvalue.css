@@ -1,0 +1,8 @@
+.coinNameAndValue{
+      margin-top: 30px;
+      color: #9dabbd !important;
+      padding-bottom: 20px;
+      padding-left: 20px;
+      padding-right: 15px;
+      border-bottom: 0.001rem solid rgba(83, 92, 100, 0.5);
+}

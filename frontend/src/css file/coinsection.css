@@ -1,0 +1,21 @@
+.coinsection_001 {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: 30px;
+}
+
+.coinsection {
+  /* padding: 20px; */
+  padding-top: 20px;
+  /* padding-left: 20px; */
+  margin-right: 30px;
+  width: 42rem;
+  background-color: #20252B;
+  border: 0.001rem solid rgba(83, 92, 100, 0.5);
+  border-radius: 10px;
+  color: white !important;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}

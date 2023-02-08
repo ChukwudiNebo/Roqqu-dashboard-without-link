@@ -1,0 +1,25 @@
+.asset{
+  color: white !important;
+  /* border-bottom: 0.001rem solid rgba(83, 92, 100, 0.5); */
+}
+
+.add-coin{
+    background-color: #0069FF;
+    color: white;
+    font-weight:bold;
+    font-size: 17px;
+    margin-right: 20px;
+    /* width:150px; */
+    margin-left: 20px;
+    padding:12px;
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -ms-border-radius:8px;
+    -o-border-radius:8px;
+}
+
+#dropdown-basic-button{
+  background-color: transparent;
+  border: 0.001rem solid rgba(83, 92, 100, 0.5);
+}

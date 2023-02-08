@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0px;
+  /* font-family: Satochi; */
+  font-family: Satochi;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+/* ::-webkit-scrollbar {
+    width: 4px !important;
+} */
